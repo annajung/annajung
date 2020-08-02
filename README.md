@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Anna
 
+
+![Anna Jung](./img/annajung.png)
+
+
 <!--
 **annajung/annajung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
